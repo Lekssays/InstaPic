@@ -1,5 +1,5 @@
 # InstaPic
-An open-source script written in Ruby to access profile picture of an Instagram user.
+An open-source script written in Ruby to access the profile picture of an Instagram user.
 
 # How it works?
 Write ruby InstaPic.rb in your terminal
